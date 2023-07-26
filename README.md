@@ -1,8 +1,8 @@
-# Course Booking System: Filter and Hooks
+# Course Booking System: Filter, Hooks and Functions
 
 The functions.php of each child theme in WordPress can be used to customize themes and plugins using filters and hooks. On the one hand, we list all filters and hooks here and give examples of how to use them. The lists and examples are constantly being expanded.
 
-All possible filters are [listed here](https://commotion.online/en/booking-system-documentation/helpful-filters-and-hooks-for-individual-adjustments/).
+All possible filters, hooks and functions are [listed here](https://commotion.online/en/booking-system-documentation/helpful-filters-and-hooks-for-individual-adjustments/).
 
 These code examples are for the [Course Booking System](https://wordpress.org/plugins/course-booking-system/) from [ComMotion](https://commotion.online/).
 
