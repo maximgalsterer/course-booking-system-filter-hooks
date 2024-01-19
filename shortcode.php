@@ -1,6 +1,6 @@
+<?php
 /* Course Booking System
 ================================================================================================================ */
-
 function cbs_timetable_category( $course_id, $date ) {
 	$courses = cbs_get_courses( array(
 		'id' => $course_id
