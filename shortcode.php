@@ -1,6 +1,8 @@
 <?php
 /* Course Booking System
 ================================================================================================================ */
+
+// Show category at the end of the timetable list item after the trainer
 function cbs_timetable_category( $course_id, $date ) {
 	$courses = cbs_get_courses( array(
 		'id' => $course_id
