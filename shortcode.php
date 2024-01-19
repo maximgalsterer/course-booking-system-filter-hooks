@@ -9,7 +9,7 @@ function cbs_timetable_category( $course_id, $date ) {
 	$categories = get_the_terms( $post_id, 'course_category' );
 
 	foreach ( $categories AS $category ) :
-    ?>
+		?>
 		<p class="category"><?php _e( 'Category:' ); ?> <?= $category->name ?></p>
 		<?php
 	endforeach;
